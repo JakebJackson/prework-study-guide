@@ -25,6 +25,10 @@ Browse the website for the particular information that you may require, alternat
 (right click the page -> select inspect) a random subject for study will be provided to you via JavaScript as well as a list
 of topics to chose from.
 
+## Credits
+
+N/A
+
 ## License
 
 Refer to LICENSE in the repository.
